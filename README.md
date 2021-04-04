@@ -1,5 +1,7 @@
 # dijkstra
 
+![image](https://raw.githubusercontent.com/zz632893783/dijkstra/main/src/assets/gif.gif)
+
 ## Project setup
 ```
 npm install
